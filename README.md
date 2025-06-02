@@ -7,13 +7,6 @@ Welcome to my GitHub profile! I'm **iMoon07**, a passionate cybersecurity profes
 - **Community Contributor**: Active contributor to projects like Penetration Testing, Bug Hunting (CSIRT,Hackerone,etc) and sharing tools, blog, write-up, and more about cybersecurity community.
 - **Open-Source Advocate**: Actively contributing to and creating tools that benefit the cybersecurity community.
 
-## ☕ Support My Work
-If you’ve found my work useful, consider supporting me:
-
-[!["Saweria"](https://saweria.co/Rajaaaaa07)
-
-Your support helps me keep creating and sharing valuable resources for the community. 💻☕
-
 ## 📬 Get in Touch
 I’d love to connect and collaborate! Feel free to reach out:
 
