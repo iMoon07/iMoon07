@@ -12,5 +12,5 @@ I’d love to connect and collaborate! Feel free to reach out:
 
 - **GitHub**: [iMoon07](https://github.com/iMoon07)
 - **Twitter**: [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)
-- **Linkedin**: [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/raja-muhammad-kurnia-setyawan-0b2730269/)
+- **Linkedin**: [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)
 - **Medium**: [Raja Muhammad Kurnia Setyawan](https://medium.com/@kurniatamvan13)
