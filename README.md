@@ -1,16 +1,15 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **iMoon07**, a passionate cybersecurity professional dedicated to learning, building, and sharing tools, blog, write-up to enhance the cybersecurity community.
+Welcome to my GitHub profile! I'm **iMoon07** (Raja), a passionate cybersecurity enthusiast committed to continuous learning, building, and sharing tools, blogs, and write-ups to support and grow the cybersecurity community.
 
 ## 🌟 About Me
-- **Expertise in**: Penetration Tester, Techinal Writer, Threat Hunting & Intelegence - SIEM Integration using Wazuh at an enterprise scale. 
-- **Community Contributor**: Active contributor to projects like Simulation Home Lab, Penetration Testing, Bug Hunting (CSIRT Government of Indonesia,Hackerone,etc) and sharing tools, blog, write-up, and more about cybersecurity community.
-- **Open-Source Advocate**: Actively contributing to and creating tools that benefit the cybersecurity community.
+- 🛡️ **Technical Focus**: Penetration Testing, Threat Hunting & Intelligence, Technical Writing, and SIEM Integration using Wazuh at an enterprise scale  
+- 🌐 **Community Contributor**: Actively involved in projects such as simulation home labs, bug hunting (CSIRT Indonesia, HackerOne), and security content creation (tools, write-ups, blogs)  
+- 💻 **Open-Source Advocate**: Contributor and maintainer of open tools to support security practitioners and learners alike
 
-## 📬 Get in Touch
-I’d love to connect and collaborate! Feel free to reach out:
-
-- **Instagram**: [./M00NL16HT](https://www.instagram.com/rajaaaaa07_)
-- **Twitter**: [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)
-- **Linkedin**: [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)
-- **Medium**: [Raja Muhammad Kurnia Setyawan](https://medium.com/@kurniatamvan13)
+## 📬 Get in Touch  
+I’d love to connect and collaborate! Find me on:  
+- 💬 **Instagram**: [@rajaaaaa07_](https://www.instagram.com/rajaaaaa07_)  
+- 🐦 **Twitter**: [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)  
+- 👔 **LinkedIn**: [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
+- ✍️ **Medium**: [kurniatamvan13](https://medium.com/@kurniatamvan13)
