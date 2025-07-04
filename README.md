@@ -1,15 +1,24 @@
-# Hi there! 👋
+# 🧑‍💻 Welcome!
 
-Welcome to my GitHub profile! I'm **iMoon07** (Raja), a passionate cybersecurity enthusiast committed to continuous learning, building, and sharing tools, blogs, and write-ups to support and grow the cybersecurity community.
+Hi there! 👋  
+I'm **iMoon07** (Raja) — a cybersecurity enthusiast passionate about continuous learning, building, and sharing tools, blogs, and write-ups to support the cybersecurity community.
 
-## 🌟 About Me
-- 🛡️ **Technical Focus**: Penetration Testing, Threat Hunting & Intelligence, Technical Writing, and SIEM Integration using Wazuh at an enterprise scale  
-- 🌐 **Community Contributor**: Actively involved in projects such as simulation home labs, bug hunting (CSIRT Indonesia, HackerOne), and security content creation (tools, write-ups, blogs)  
-- 💻 **Open-Source Advocate**: Contributor and maintainer of open tools to support security practitioners and learners alike
+## 🚀 About Me
+- 🛡️ **Technical Focus**: Penetration Testing, Threat Hunting & Intelligence, Technical Writing, and SIEM Integration (Wazuh at enterprise scale)  
+- 🧩 **Community Contributor**: Engaged in simulation home labs, bug bounty (CSIRT Indonesia, HackerOne), and educational security content  
+- 💡 **Open-Source Advocate**: Building and contributing to tools that support learning and practical security ops
 
-## 📬 Get in Touch  
-I’d love to connect and collaborate! Find me on:  
-- 💬 **Instagram**: [@rajaaaaa07_](https://www.instagram.com/rajaaaaa07_)  
+## 🔗 Connect With Me
+Let’s collaborate, learn, and grow together:  
+- 📸 **Instagram**: [@rajaaaaa07_](https://www.instagram.com/rajaaaaa07_)  
 - 🐦 **Twitter**: [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)  
-- 👔 **LinkedIn**: [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
-- ✍️ **Medium**: [kurniatamvan13](https://medium.com/@kurniatamvan13)
+- 💼 **LinkedIn**: [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
+- ✍️ **Medium**: [@kurniatamvan13](https://medium.com/@kurniatamvan13)
+
+## 🧪 My Home Lab 🏠  
+A curated environment for simulating Offensive & Defensive Security practices — powered by Wazuh, OWASP vulnerable apps, and virtualized networks.  
+📁 [Explore OVA Files & Lab Guide](https://drive.google.com/drive/folders/1I3uwgn_InDIhP52OvK9n6-VjRy3fpqQo?usp=drive_link)
+
+> 🧠 For beginners, professionals, and instructors looking to demonstrate cybersecurity scenarios  
+> 📖 Guide available on [Medium](https://medium.com/@kurniatamvan13/part-1-panduan-lengkap-mengimport-file-ova-yang-telah-tersedia-lingkungan-lamp-linux-apache-fd9edd6e39ee)
+> 🔧 **Next update**: Full integration of Wazuh agent across lab targets for real-time log monitoring, FIM, and active response simulation
