@@ -1,7 +1,7 @@
 # 🧑‍💻 Welcome!
 
 Hi there! 👋  
-I'm **iMoon07** (Raja) — a cybersecurity enthusiast passionate about continuous learning, building, and sharing tools, blogs, and write-ups to support the cybersecurity community.
+Welcome to my GitHub profile! I'm **iMoon07**, a passionate cybersecurity professional dedicated to learning, building, and sharing tools, blog, write-up to enhance the cybersecurity community.
 
 ## 🚀 About Me
 - 🛡️ **Technical Focus**: Penetration Testing, Threat Hunting & Intelligence, Technical Writing, and SIEM Integration (Wazuh at enterprise scale)  
@@ -21,4 +21,5 @@ A curated environment for simulating Offensive & Defensive Security practices �
 
 > 🧠 For beginners, professionals, and instructors looking to demonstrate cybersecurity scenarios  
 > 📖 Guide available on [Medium](https://medium.com/@kurniatamvan13/part-1-panduan-lengkap-mengimport-file-ova-yang-telah-tersedia-lingkungan-lamp-linux-apache-fd9edd6e39ee)
+
 > 🔧 **Next update**: Full integration of Wazuh agent across lab targets for real-time log monitoring, FIM, and active response simulation
