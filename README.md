@@ -14,7 +14,7 @@ Let’s collaborate, learn, and grow together:
 - 🐦 **Twitter**    : [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)  
 - 💼 **LinkedIn**   : [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
 - ✍️ **Medium**     : [@kurniatamvan13](https://medium.com/@kurniatamvan13)
-- 📶 **Community**  : [Join us Beruang Cyber Community 🐻](https://t.me/beruangcyber)
+- 📶 **Community**  : [🐻](https://t.me/beruangcyber)
 
 ## 🧪 My Home Lab 🏠  
 A curated environment for simulating Offensive & Defensive Security practices — powered by Wazuh, OWASP vulnerable apps, and virtualized networks.  
