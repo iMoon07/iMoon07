@@ -21,6 +21,5 @@ A curated environment for simulating Offensive & Defensive Security practices �
 
 > 🧠 For beginners, professionals, and instructors looking to demonstrate cybersecurity scenarios  
 > 📖 Guide available on [Medium](https://medium.com/@kurniatamvan13/part-1-panduan-lengkap-mengimport-file-ova-yang-telah-tersedia-lingkungan-lamp-linux-apache-fd9edd6e39ee)
- 
-> 📶 Join us Beruang Cyber Community 🐻 (https://t.me/beruangcyber)
+
 > 🔧 **Next update**: Full integration of Wazuh agent across lab targets for real-time log monitoring, FIM, and active response simulation
