@@ -14,6 +14,7 @@ Let’s collaborate, learn, and grow together:
 - 🐦 **Twitter**    : [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)  
 - 💼 **LinkedIn**   : [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
 - ✍️ **Medium**     : [@kurniatamvan13](https://medium.com/@kurniatamvan13)
+- 🎥 **Youtube**    : [Pejuang Hacker ID] (https://youtube.com/@pejuanghackerindo?si=RNnTE9q0YCtuBjCc)
 - 📶 **Community**  : [🐻](https://t.me/beruangcyber)
 
 ## 🧪 My Home Lab 🏠  
