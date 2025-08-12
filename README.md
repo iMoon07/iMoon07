@@ -15,7 +15,7 @@ Let’s collaborate, learn, and grow together:
 - 💼 **LinkedIn**   : [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
 - ✍️ **Medium**     : [@kurniatamvan13](https://medium.com/@kurniatamvan13)
 - 🎥 **Youtube**    : [Pejuang Hacker ID](https://youtube.com/@pejuanghackerindo?si=RNnTE9q0YCtuBjCc)
-- 📶 **Community**  : [🐻](https://t.me/beruangcyber)
+- 📶 **Community**  : [<a href="https://emoji.gg/emoji/5542-discord-clyde-gif"><img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="20px" height="20px" alt="discord_clyde_gif"></a>](https://discord.gg/DGzbnHaE)
 
 ## 🧪 My Home Lab 🏠  
 A curated environment for simulating Offensive & Defensive Security practices — powered by Wazuh, OWASP vulnerable apps, and virtualized networks.  
