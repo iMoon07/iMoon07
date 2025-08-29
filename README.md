@@ -4,8 +4,7 @@ Hi there! 👋
 Welcome to my GitHub profile! I'm **iMoon07**, a passionate cybersecurity professional dedicated to learning, building, and sharing tools, blog, write-up to enhance the cybersecurity community.
 
 ## 🚀 About Me
-- 🛡️ **Technical Focus**: Penetration Testing, Threat Hunting & Intelligence, Technical Writing, and SIEM Integration (Wazuh at enterprise scale)  
-- 🧩 **Community Contributor**: Engaged in simulation home labs, bug bounty (CSIRT Indonesia, HackerOne), and educational security content  
+- 🛡️ **Technical Focus**: Penetration Testing, Threat Hunting & Intelligence, Technical Writing, and SIEM Integration (Wazuh at enterprise scale)
 - 💡 **Open-Source Advocate**: Building and contributing to tools that support learning and practical security ops
 
 ## 🔗 Connect With Me
