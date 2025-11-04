@@ -13,7 +13,7 @@ Let’s collaborate, learn, and grow together:
 - 🐦 **Twitter**    : [@Rajaaaaa07_](https://x.com/Rajaaaaa07_)  
 - 💼 **LinkedIn**   : [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)  
 - ✍️ **Medium**     : [@kurniatamvan13](https://medium.com/@kurniatamvan13)
-- 🎥 **Youtube**    : [Pejuang Hacker ID](https://youtube.com/@pejuanghackerindo?si=RNnTE9q0YCtuBjCc)
+- 🎥 **Youtube**    : [Penjelajah CyberSecurity](https://www.youtube.com/@penjelajah-cybersecurity)
 - 📶 **Community**  : [Penjelajah CyberSecurity](https://discord.gg/DGzbnHaE)<a href="[https://emoji.gg/emoji/5542-discord-clyde-gif](https://discord.gg/DGzbnHaE)"><img src="https://cdn3.emoji.gg/emojis/5542-discord-clyde-gif.gif" width="30px" height="20px" alt="discord_clyde_gif"></a>
 
 ## 🧪 My Home Lab 🏠  
