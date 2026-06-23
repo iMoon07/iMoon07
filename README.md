@@ -9,7 +9,7 @@ I'm Raja Muhammad Kurnia Setyawan (@iMoon07), a self-taught **Cyber Security Arc
 
 ---
 
-### 🌐 My Portfolio & Write-ups
+### 🌐 My Write-ups
 I actively document my security research, hands-on labs, and technical notes on my personal website:
 👉 **[imoon07.github.io](https://imoon07.github.io/)**
 
