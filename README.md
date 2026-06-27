@@ -1,8 +1,8 @@
 ### Welcome
 
-I'm Raja Muhammad Kurnia Setyawan (@iMoon07), a professional Penetration Tester and Cyber Security Architect from Indonesia. 
+I'm Raja Muhammad Kurnia Setyawan (@iMoon07), a Cybersecurity Practitioner from Indonesia focused on Vulnerability Assessment, Penetration Testing (VAPT), and early-stage security architecture exploration through hands-on labs and independent research.
 
-Outside of my daily work, I genuinely enjoy tinkering with systems (*ngoprek*), programming, and setting up servers. I built my own dynamic blog to document my journey, share technical write-ups, and keep track of my security research.
+Outside of my learning and professional activities, I enjoy exploring systems, experimenting with cybersecurity labs, programming, and building and configuring servers. I use this space to document my journey, write technical notes, and track my security experiments.
 
 ---
 
