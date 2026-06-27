@@ -3,6 +3,7 @@
 I'm Raja Muhammad Kurnia Setyawan, a Cybersecurity Practitioner from Indonesia focused on Vulnerability Assessment, Penetration Testing (VAPT), and early-stage security architecture exploration through hands-on labs and independent research.
 
 Outside of my studies and practice, I enjoy exploring systems, setting up lab environments, and documenting my learning journey through technical notes and write-ups.
+
 ---
 
 ### My Blog & Write-ups
