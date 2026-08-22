@@ -1,14 +1,14 @@
 ### Welcome
 
-I'm Raja Muhammad Kurnia Setyawan, a Cybersecurity Practitioner from Indonesia focused on Vulnerability Assessment, Penetration Testing (VAPT), and early-stage security architecture exploration through hands-on labs and independent research.
-
-Outside of my studies and practice, I enjoy exploring systems, setting up lab environments, and documenting my learning journey through technical notes and write-ups.
+I'm Raja Muhammad Kurnia Setyawan (iMoon07) - still learning Programming, exploring Operating Systems, Web/Mobile/API Applications, and Databases, with interest in Binary & System Security.
 
 ---
 
-### My Blog & Write-ups
+### My log activity
 You can read my notes and lab explorations here:
-🔗 **[imoon07.github.io](https://imoon07.github.io/)**
+🌐 **[Penjelajah CyberSecurity](https://start.me/p/p62dRD/penjelajah-cybersecurity-resources)**
+📝 **[imoon07.github.io](https://imoon07.github.io/)**
+✍️ **[Medium](https://medium.com/@kurniatamvan13)**
 
 ### Connect & Support
 - **LinkedIn:** [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)
