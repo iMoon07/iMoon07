@@ -6,7 +6,6 @@ You can find my notes, experiments, and lab explorations here:
 
 * **Penjelajah CyberSecurity** — [Resources & Notes](https://start.me/p/p62dRD/penjelajah-cybersecurity-resources)
 * **imoon07.github.io** — [Personal Blog](https://imoon07.github.io/)
-* **Medium** — [Articles & Writings](https://medium.com/@kurniatamvan13)
 
 ## Connect
 
