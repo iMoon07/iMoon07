@@ -5,7 +5,8 @@ I'm **Raja Muhammad Kurnia Setyawan (iMoon07)** — love learning **Programming*
 You can find my notes, experiments, and lab explorations here:
 
 * **Penjelajah CyberSecurity** — [Resources & Notes](https://start.me/p/p62dRD/penjelajah-cybersecurity-resources)
-* **imoon07.github.io** — [Personal Blog](https://imoon07.github.io/)
+* **imoon07.github.io** — [Labs Experiment](https://imoon07.github.io/)
+* **Medium** — [Experience & Writeups](https://medium.com/@kurniatamvan13)
 
 ## Connect
 
