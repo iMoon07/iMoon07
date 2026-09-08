@@ -1,6 +1,6 @@
 # Welcome
 
-I'm **Raja Muhammad Kurnia Setyawan (iMoon07)** — love learning **Programming**, exploring **Operating Systems, Web/Mobile/API Applications, and Databases**, with a growing interest in **Binary & System, Software, Program Security**.
+I'm **Raja Muhammad Kurnia Setyawan (iMoon07)** — interest in **Program, System, Networking, Cryptography, Information - Data**.
 
 You can find my notes, experiments, and lab explorations here:
 
