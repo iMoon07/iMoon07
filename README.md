@@ -10,4 +10,3 @@ You can find my notes, experiments, and lab explorations here:
 ## Connect
 
 * **LinkedIn** — [Raja Muhammad Kurnia Setyawan](https://www.linkedin.com/in/imoon07/)
-* **Discord** — [Penjelajah CyberSecurity](https://discord.gg/gGSK3DP5ES)
