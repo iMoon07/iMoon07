@@ -5,7 +5,6 @@ I'm **Raja Muhammad Kurnia Setyawan (iMoon07)** — interest in **Program, Syste
 You can find my notes, experiments, and lab explorations here:
 
 * **imoon07.github.io** — [Labs Experiment](https://imoon07.github.io/)
-* **Medium** — [Experience & Writeups](https://medium.com/@kurniatamvan13)
 
 ## Connect
 
